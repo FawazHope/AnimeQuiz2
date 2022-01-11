@@ -49,7 +49,7 @@ if answer == "ichiro miyata":
 else:
     print("Incorrect!!:(")
 
-answer = input("How old was Luffy when he first set out to see? ").lower()
+answer = input("How old was Luffy when he first set out to sea? ").lower()
 if answer == "17 years old":
     print("Correct!")
     Score += 1
