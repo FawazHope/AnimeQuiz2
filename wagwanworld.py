@@ -1,5 +1,0 @@
-print('hi,world!')
-print(1+2)
-print(7*6)
-print()
-print('the end','or is it', 'keep watching to learn more python',3)
